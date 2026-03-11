@@ -45,3 +45,6 @@ celery -A backend.celery_app.celery beat --loglevel=info
 
 You can change these in environment variables later.
 
+
+# HospitalManagement
+-
